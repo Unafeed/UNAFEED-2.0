@@ -1,4 +1,4 @@
-![simplinnovation](https://4.bp.blogspot.com/-f7YxPyqHAzY/WJ6VnkvE0SI/AAAAAAAADTQ/0tDQPTrVrtMAFT-q-1-3ktUQT5Il9FGdQCLcB/s350/simpLINnovation1a.png)
+![unafeed](./logo350.png)
 
 # UNAFEED 2.0 🛠 XDK Bosch
 
@@ -9,6 +9,12 @@
 5. __Mobile (Android)__: React Native, Android Studio, Genymotion
 6. __Hardware__: ESP32, Arduino, XDK Bosch
 7. __Code Editor__: Visual Studio Code, XDK Workbench
+
+#
+
+![foto](./Unafeed1.jpg)
+
+1st winner of BOSCH IoT Hackathon 2019
 
 #
 
