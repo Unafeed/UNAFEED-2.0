@@ -12,7 +12,7 @@
 
 #
 
-![foto](./Unafeed1.jpg)
+![foto](./0.jpg)
 
 1st winner of BOSCH IoT Hackathon 2019
 
